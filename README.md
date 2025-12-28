@@ -22,7 +22,7 @@
 </div>
 
 <div align="center">
-    <h1>Read You</h1>
+    <h1>Read You AI</h1>
     <p>An Android RSS reader presented in <a target="_blank" href="https://m3.material.io/">Material You</a> style.</p>
     <p>English&nbsp;&nbsp;|&nbsp;&nbsp;
     <a target="_blank" href="https://github.com/ReadYouApp/ReadYou/blob/main/README-de.md">Deutsch</a>&nbsp;&nbsp;|&nbsp;&nbsp;
@@ -64,7 +64,7 @@ The following are the progress made so far and the goals to be worked on in the 
 - [x] Fever
 - [x] Google Reader
 - [x] FreshRSS
-- [ ] Miniflux
+- [x] Miniflux
 - [ ] Tiny Tiny RSS
 - [ ] Inoreader
 - [ ] Feedly
