@@ -53,6 +53,7 @@ The following are the progress made so far and the goals to be worked on in the 
 - [x] Full content parse for original articles
 - [x] Multi-account
 - [x] Read aloud
+- [x] AI Article Summarization
 - [ ] Android widget
 - [ ] ...
 
@@ -69,6 +70,16 @@ The following are the progress made so far and the goals to be worked on in the 
 - [ ] Feedly
 - [ ] Feedbin
 - [ ] ...
+
+## AI Summarization
+
+**Read You** supports AI-powered article summarization using OpenAI-compatible APIs. You can configure:
+- API Base URL (default: OpenAI)
+- API Key
+- LLM Model (fetched dynamically)
+- Custom Summarization Prompt
+
+Access these settings in **Settings > AI**.
 
 ## Download
 
